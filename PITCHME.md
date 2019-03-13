@@ -1,4 +1,5 @@
-# Let's Get Started
+![](assets/img/logo.png)
+Ecommerce Site Migration
 
 ---
 
