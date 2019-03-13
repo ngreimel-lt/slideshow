@@ -1,7 +1,8 @@
 ![](assets/img/logo.png)
 
-Ecommerce Site Migration
+### Ecommerce Site Migration
 
+<style>#gp-logo { display: none; }</style>
 ---
 
 ## Add Some Slide Candy
