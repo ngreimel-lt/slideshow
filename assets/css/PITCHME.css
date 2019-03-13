@@ -1,13 +1,13 @@
 
 
 #gp-logo {
-  top: auto;
+  top: auto !important;
   bottom: 40px;
 }
 
 .gp-menu .slide-menu-button {
   top: 20px;
-  bottom: auto;
+  bottom: auto !important;
 }
 
 .spaced li {
@@ -37,4 +37,17 @@
 .reveal a:hover {
   color: white;
   font-weight: bold;
+}
+.reveal {
+  font-family: -apple-system,BlinkMacSystemFont,system-ui,Helvetica Neue,Roboto,Segoe UI,Helvetica,Arial,sans-serif !important;
+}
+.reveal h3 {
+  font-size: 1.5rem;
+  line-height: 1.35;
+  margin-bottom: 0.75rem;
+  font-weight: 200;
+  letter-spacing: normal;
+  text-transform: none;
+  color: #333;
+  text-rendering: optimizelegibility;
 }
