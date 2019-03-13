@@ -1,11 +1,13 @@
 
 
 #gp-logo {
-  bottom: 20px;
+  top: auto;
+  bottom: 40px;
 }
 
 .gp-menu .slide-menu-button {
-  top: 40px;
+  top: 20px;
+  bottom: auto;
 }
 
 .spaced li {

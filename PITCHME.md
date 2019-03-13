@@ -2,7 +2,7 @@
 
 ### Ecommerce Site Migration
 
-<style>#gp-logo { display: none; }</style>
+<script>alert('hello world')</script>
 ---
 
 ## Add Some Slide Candy
