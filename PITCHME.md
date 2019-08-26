@@ -1,11 +1,16 @@
 ![](assets/img/logo.png)
 
-### Ecommerce Site Migration
+### Ecommerce Developers
 
-<script>alert('hello world')</script>
----
 
-## Add Some Slide Candy
+## Expectations
+
+- Story Points
+  - 8 - 10 Points per developer / Sprint
+- Development time
+  - ~ 6 hours a day (roughly 75%)
+  - Other time is learning, administration (Jira), meetings, etc
+
 
 ![](assets/img/presentation.png)
 

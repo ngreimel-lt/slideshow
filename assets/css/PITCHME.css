@@ -50,4 +50,5 @@
   text-transform: none;
   color: #333;
   text-rendering: optimizelegibility;
+  font-family: -apple-system,BlinkMacSystemFont,system-ui,Helvetica Neue,Roboto,Segoe UI,Helvetica,Arial,sans-serif !important;
 }
