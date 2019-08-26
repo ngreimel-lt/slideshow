@@ -6,14 +6,18 @@
 
 ## Expectations
 
+@ul
 - Story Points
   - 8 - 10 Points per developer / Sprint
 - Development time
   - ~ 6 hours a day (roughly 75%)
   - Other time is learning, administration (Jira), meetings, etc
-
-
-![](assets/img/presentation.png)
+- Subtasks
+  - ~ 1 days' worth of effort per task
+- Unit tests
+  - 50% coverage on new code
+  - To date: 0%
+@ulend
 
 ---
 @title[Customize Slide Layout]
